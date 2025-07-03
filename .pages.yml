@@ -21,7 +21,7 @@ content:
       - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
   - name: artists
-    label: Posts
+    label: Artists
     type: collection
     path: src/content/blog
     view:
